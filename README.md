@@ -3,7 +3,7 @@
 **David House**
 
 #### Executive summary
-
+Unsupervised Machine learning models have potential in remote sensing applications to help identify regions of interests as well as changes in an automated manner.
 
 #### Rationale
 These methods could allow for eventual deforestation tracking, oil spill monitoring in the ocean or other tasks that require finding changes in the environment.
